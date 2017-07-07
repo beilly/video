@@ -19,4 +19,4 @@ VIP视频解析系统升级版v1.0.0
 
 ## 其他说明
 1. 这些接口来源于网络泄露特别是会员解析通道 低调使用 我会定期更新
-2. QQ群 ①群：<a target="_blank" href="./qq/api/joingroup.php?qun=490844072"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="点击加群" title="点击加群"></a> ②群：<a target="_blank" href="./qq/api/joingroup.php?qun=143946691"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="点击加群" title="点击加群"></a> 有问题群里说 </li><
+2. QQ群 ①群：<a target="_blank" href="./qq/api/joingroup.php?qun=490844072"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="点击加群" title="点击加群"></a> ②群：<a target="_blank" href="./qq/api/joingroup.php?qun=143946691"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="点击加群" title="点击加群"></a> 有问题群里说 
