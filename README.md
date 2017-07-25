@@ -14,8 +14,12 @@ VIP视频解析系统升级版v1.0.0
 ## 演示地址
 [点击进入](http://wuaishare.oschina.io/video/)
 
+## 网站使用说明
+[点击进入](http://www.wuaishare.cn/thread-959-1-1.html)
+
 ## 源码下载
-[点击下载](https://git.oschina.net/wuaishare/video.git)
+[1.开源中国](https://git.oschina.net/wuaishare/video.git)
+[2.GitHub](https://github.com/wuaishare/video)
 
 ## 其他说明
 1. 这些接口来源于网络泄露特别是会员解析通道 低调使用 我会定期更新
